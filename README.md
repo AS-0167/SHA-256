@@ -41,9 +41,9 @@ sha-256-hash --fpath <file_path> --sha256path <output_path>
 ```
 
 ### **Example**
-To compute the SHA-256 hash of `example.txt` and save it to `hash_output.txt`, use:
+To compute the SHA-256 hash of `file.txt` (a sample file given in this repo) and save it to `hash.txt`, use:
 ```sh
-sha-256-hash --fpath example.txt --sha256path hash_output.txt
+sha-256-hash --fpath file.txt --sha256path hash.txt
 ```
 
 ### **Error Handling**
