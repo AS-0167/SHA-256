@@ -1,4 +1,5 @@
 # SHA-256 Hash CLI Tool
+## Implemented from scratch in C
 
 ## Overview
 The **SHA-256 Hash CLI Tool** is a command-line utility that allows users to compute the SHA-256 hash of a file and store the result in a specified output file. This tool is lightweight, efficient, and ensures that large files exceeding system memory are not processed, preventing crashes. I've implemented this hasing algorithm from scratch in **C language**.
