@@ -1,5 +1,5 @@
 # 🔐 SHA-256 Hash CLI Tool
-Implemented from Scratch in C
+***Implemented from Scratch in C***
 
 ## 🚀 Overview
 
