@@ -8,6 +8,7 @@ The **SHA-256 Hash CLI Tool** is a command-line utility that allows users to com
 - Prevents loading files larger than available system memory.
 - Outputs the hash to a user-specified file.
 - Simple installation and usage via the command line.
+- **Implemented from scratch without using any hashing library.**
 
 ---
 
@@ -16,8 +17,8 @@ To install the tool, follow these steps:
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/sha256-hash-cli.git
-cd sha256-hash-cli
+git clone https://github.com/AS-0167/SHA-256.git
+cd SHA-256
 ```
 
 ### **2. Build the Executable**
@@ -82,12 +83,7 @@ This will execute the tool without installing it system-wide.
 
 ---
 
-## License
-This project is open-source and available under the **MIT License**.
-
----
-
 ## Author
-Developed by **[Your Name]**.
+Developed by **[AS]**.
 For any questions or contributions, feel free to reach out or submit a pull request.
 
